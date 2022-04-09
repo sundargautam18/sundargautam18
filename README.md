@@ -8,7 +8,7 @@ I'm Sundar Gautam, a self-motivated tech enthusiast,full stack web developer and
 💻 full stack developer <a href="https://www.goswivt.com/">@Swivt Technology</a>| 💬 connect <a href="https://www.linkedin.com/in/sundargautam/">@Sundar Gautam</a>
 </h4>
 <p  align="center">
-<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+<!-- <a href="https://akasrai.github.io/">https://akasrai.github.io</a> -->
 </p>
 
 <br/>
